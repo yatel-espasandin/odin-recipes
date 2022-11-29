@@ -1,1 +1,1 @@
-# odin-recipes
+This project is about creating a website that show a few recipes of different foods, we are going to build around of three web pages that show the recipes.
